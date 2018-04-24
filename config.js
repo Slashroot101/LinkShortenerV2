@@ -1,8 +1,6 @@
 var config = {};
-
 config.db = {};
 config.webhost = 'https://short.slashroot.xyz/';
-
 config.db.host = 'localhost';
 config.db.name = 'UrlShortener';
 config.db.username = 'slashroot';
